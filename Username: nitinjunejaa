@@ -1,0 +1,9 @@
+user.name=nitinjunejaa
+user.email=kumar.juneja11@gmail.com
+user.password=Nitinjuneja123
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/nitinjunejaa/NodeJs.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
